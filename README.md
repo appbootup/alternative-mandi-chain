@@ -16,4 +16,24 @@ Technologies Used:</br>
 5.mySQL DB</br>
 6.Java Web Services</br></br>
 
-More details are described in the presentation (Alternative-mandi-chain.pptx)
+More details are described in the presentation (Alternative-mandi-chain.pptx)</br></br></br></br>
+
+The Description of the packages are as follows.
+1. agriauc : Mobile app for Alternatuve Mandi <br>
+This app demonstrates, use of ionic2 based apps with</br>
+</br>
+1. mongodb to store data</br>
+2. use of node.js as blockchain server to interact with mongodb and blockchain</br>
+3. use of angular.js to take data from browser and insert into mongodb.</br>
+4. integration of mongodb, node.js, angular.js, multichain blockchain</br>
+</br></br>
+
+2.mbcs : </br>
+</br>
+Description of what app does</br>
+---------------------------------</br>
+This app demonstrates, use of</br> 
+1. mongodb to store data</br>
+2. use of node.js as blockchain server to interact with mongodb and blockchain</br>
+3. use of angular.js to take data from browser and insert into mongodb.</br>
+4. integration of mongodb, node.js, angular.js, multichain blockchain</br></br>
