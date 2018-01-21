@@ -8,7 +8,7 @@ A User(farmer) will register himself and will call for the Aggregator who will c
 
 If incase a product does not get sold in the auction then it will be send back to the existing Mandi's.
 
-Technologies Used:
+Technologies Used:</br>
 1.Multichain</br>
 2.Angulas js</br>
 3.Ionic</br>
