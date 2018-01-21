@@ -14,4 +14,6 @@ Technologies Used:</br>
 3.Ionic</br>
 4.Mongo DB</br>
 5.mySQL DB</br>
-6.Java Web Services</br>
+6.Java Web Services</br></br>
+
+More details are described in the presentation (Alternative-mandi-chain.pptx)
