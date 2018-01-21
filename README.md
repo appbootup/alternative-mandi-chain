@@ -19,7 +19,7 @@ Technologies Used:</br>
 More details are described in the presentation (Alternative-mandi-chain.pptx)</br></br></br></br>
 
 The Description of the packages are as follows.
-1. agriauc : Mobile app for Alternatuve Mandi <br>
+1. agriauc-master.zip : Mobile app for Alternatuve Mandi <br>
 This app demonstrates, use of ionic2 based apps with</br>
 </br>
 1. mongodb to store data</br>
@@ -28,7 +28,7 @@ This app demonstrates, use of ionic2 based apps with</br>
 4. integration of mongodb, node.js, angular.js, multichain blockchain</br>
 </br></br>
 
-2.mbcs : </br>
+2.mbcs-master.zip : </br>
 </br>
 Description of what app does</br>
 ---------------------------------</br>
