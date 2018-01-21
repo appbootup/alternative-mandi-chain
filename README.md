@@ -9,9 +9,9 @@ A User(farmer) will register himself and will call for the Aggregator who will c
 If incase a product does not get sold in the auction then it will be send back to the existing Mandi's.
 
 Technologies Used:
-1.Multichain
-2.Angulas js
-3.Ionic
-4.Mongo DB
-5.mySQL DB
-6.Java Web Services
+1.Multichain</br>
+2.Angulas js</br>
+3.Ionic</br>
+4.Mongo DB</br>
+5.mySQL DB</br>
+6.Java Web Services</br>
